@@ -127,13 +127,13 @@ age = 22
 # greet()
 # print(message)
 
-def multiply(*numbers):
-    total = 1
-    for number in numbers:
-        total *= number
-    return total
+# def multiply(*numbers):
+#     total = 1
+#     for number in numbers:
+#         total *= number
+#     return total
 
 
-print("start")
-print(multiply(1, 2, 3))
-print("finish")
+# print("start")
+# print(multiply(1, 2, 3))
+# print("finish")
