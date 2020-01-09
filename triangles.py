@@ -12,4 +12,4 @@ def stars(limit):
         letters = letters + "x"
 
 
-stars(5)
+stars(10)
